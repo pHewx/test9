@@ -1,4 +1,4 @@
 window.addEventListener("load", () => {
-  alert("Hello everybody");
-  
+  const greet = "Hello everybody";
+  alert(greet);
 });
