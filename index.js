@@ -1,3 +1,4 @@
 window.addEventListener("load", () => {
-  alert("Hello world");
+  alert("Hello everybody");
+  
 });
